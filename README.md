@@ -19,7 +19,7 @@ I am a Mathematical Physicist practicing areas and profiles such as ‘Data Scie
 - Natural Language Processing (NLP) techniques
 - Process automation using AI
 - Image processing using Python
-- Database Management by Extended Language Model (LLM)
+- Database Management by Large Language Model (LLM)
 
 ## 💬 Available for inquiries at:
 
