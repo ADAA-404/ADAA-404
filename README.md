@@ -10,7 +10,7 @@ I bridge the gap between mathematical rigor and scalable AI solutions. My focus 
 I am a self-taught, production-oriented developer driven by the challenge of building resilient data architectures and predictive models that solve domain-specific problems (Finance, Healthcare, and Retail).
 
 ## 🛠️ Technical Stack
-* **Languages:** Python (Expert), SQL, LaTeX.
+* **Languages:** Python, SQL, LaTeX.
 * **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM.
 * **Generative AI:** LangChain, LangGraph, Multi-Agent Orchestration, Vector DBs (ChromaDB).
 * **Data Engineering & Ops:** FastAPI, MLflow, ETL Pipelines, Streamlit.
@@ -41,7 +41,7 @@ Conecto el rigor matemático con soluciones de IA escalables. Mi enfoque princip
 Soy un desarrollador autodidacta con mentalidad orientada a producción, motivado por el desafío de construir arquitecturas de datos resilientes y modelos predictivos que resuelven problemas específicos (Finanzas, Salud y Retail).
 
 ## 🛠️ Stack Técnico
-* **Lenguajes:** Python (Experto), SQL, LaTeX.
+* **Lenguajes:** Python, SQL, LaTeX.
 * **IA & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM.
 * **IA Generativa:** LangChain, LangGraph, Orquestación Multi-Agente, Vector DBs (ChromaDB).
 * **Ingeniería de Datos & Ops:** FastAPI, MLflow, Pipelines ETL, Streamlit.
